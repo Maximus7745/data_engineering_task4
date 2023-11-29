@@ -1,0 +1,1089 @@
+{
+    "query1": [
+        {
+            "title": "Sapiens: A Brief History of Humankind",
+            "stars": 5
+        },
+        {
+            "title": "Set Me Free",
+            "stars": 5
+        },
+        {
+            "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+            "stars": 5
+        },
+        {
+            "title": "Rip it Up and Start Again",
+            "stars": 5
+        },
+        {
+            "title": "Chase Me (Paris Nights #2)",
+            "stars": 5
+        },
+        {
+            "title": "Black Dust",
+            "stars": 5
+        },
+        {
+            "title": "Worlds Elsewhere: Journeys Around Shakespeareâs Globe",
+            "stars": 5
+        },
+        {
+            "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+            "stars": 5
+        },
+        {
+            "title": "The Elephant Tree",
+            "stars": 5
+        },
+        {
+            "title": "Sophie's World",
+            "stars": 5
+        },
+        {
+            "title": "Private Paris (Private #10)",
+            "stars": 5
+        },
+        {
+            "title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+            "stars": 5
+        },
+        {
+            "title": "We Love You, Charlie Freeman",
+            "stars": 5
+        },
+        {
+            "title": "Thirst",
+            "stars": 5
+        },
+        {
+            "title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+            "stars": 5
+        },
+        {
+            "title": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+            "stars": 5
+        },
+        {
+            "title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+            "stars": 5
+        },
+        {
+            "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+            "stars": 5
+        },
+        {
+            "title": "Join",
+            "stars": 5
+        },
+        {
+            "title": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+            "stars": 5
+        },
+        {
+            "title": "Call the Nurse: True Stories of a Country Nurse on a Scottish Isle",
+            "stars": 5
+        },
+        {
+            "title": "A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",
+            "stars": 5
+        },
+        {
+            "title": "A Flight of Arrows (The Pathfinders #2)",
+            "stars": 5
+        },
+        {
+            "title": "(Un)Qualified: How God Uses Broken People to Do Big Things",
+            "stars": 5
+        },
+        {
+            "title": "The Third Wave: An Entrepreneurâs Vision of the Future",
+            "stars": 5
+        },
+        {
+            "title": "The Regional Office Is Under Attack!",
+            "stars": 5
+        },
+        {
+            "title": "The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us",
+            "stars": 5
+        },
+        {
+            "title": "The Artist's Way: A Spiritual Path to Higher Creativity",
+            "stars": 5
+        },
+        {
+            "title": "The Art of War",
+            "stars": 5
+        },
+        {
+            "title": "Scarlett Epstein Hates It Here",
+            "stars": 5
+        },
+        {
+            "title": "Redeeming Love",
+            "stars": 5
+        },
+        {
+            "title": "Mrs. Houdini",
+            "stars": 5
+        },
+        {
+            "title": "Modern Romance",
+            "stars": 5
+        },
+        {
+            "title": "Library of Souls (Miss Peregrineâs Peculiar Children #3)",
+            "stars": 5
+        },
+        {
+            "title": "Frostbite (Vampire Academy #2)",
+            "stars": 5
+        },
+        {
+            "title": "Finders Keepers (Bill Hodges Trilogy #2)",
+            "stars": 5
+        },
+        {
+            "title": "Done Rubbed Out (Reightman & Bailey #1)",
+            "stars": 5
+        },
+        {
+            "title": "Dark Notes",
+            "stars": 5
+        },
+        {
+            "title": "Batman: The Dark Knight Returns (Batman)",
+            "stars": 5
+        },
+        {
+            "title": "Amatus",
+            "stars": 5
+        }
+    ],
+    "query2": [
+        {
+            "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/danganronpa-volume-1_889/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/i-am-a-hero-omnibus-volume-1_898/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html",
+            "price": 60.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/thirteen-reasons-why_866/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-white-cat-and-the-monk-a-retelling-of-the-poem-pangur-ban_865/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/unqualified-how-god-uses-broken-people-to-do-big-things_873/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/a-piece-of-sky-a-grain-of-rice-a-memoir-in-four-meditations_878/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-girl-on-the-train_844/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-matchmakers-playbook-wingmen-inc-1_850/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-regional-office-is-under-attack_858/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/suddenly-in-love-lake-haven-1_835/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/eureka-trivia-60_805/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/finders-keepers-bill-hodges-trilogy-2_807/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/i-had-a-nice-time-and-other-lies-how-to-find-love-sht-like-that_814/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/amatus_787/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/why-the-right-went-wrong-conservatism-from-goldwater-to-the-tea-party-and-beyond_781/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-wright-brothers_769/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-rosie-project-don-tillman-1_761/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/we-are-robin-vol-1-the-vigilante-business-we-are-robin-1_778/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-testament-of-mary_765/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/shtum_733/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/someone-like-you-the-harrisons-2_735/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/quarter-life-poetry-poems-for-the-young-broke-and-hangry_727/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/overload-how-to-unplug-unwind-and-unleash-yourself-from-the-pressure-of-stress_725/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/lowriders-to-the-center-of-the-earth-lowriders-in-space-2_712/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/luis-paints-the-world_714/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/el-deafo_691/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/dont-get-caught_687/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/eaternity-more-than-150-deliciously-easy-vegan-recipes-for-a-long-healthy-satisfied-joyful-life_689/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/eat-fat-get-thin_688/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/hamilton-the-revolution_699/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/city-of-glass-the-mortal-instruments-3_678/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/barefoot-contessa-at-home-everyday-recipes-youll-make-over-and-over-again_666/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/catching-jordan-hundred-oaks_673/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/angels-demons-robert-langdon-1_661/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/a-series-of-catastrophes-and-miracles-a-true-story-of-love-science-and-cancer_655/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/abstract-city_658/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/a-brush-of-wings-angels-walking-3_651/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-diary-of-a-young-girl_634/index.html",
+            "price": 60.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-dinner-party_635/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-gray-rhino-how-to-recognize-and-act-on-the-obvious-dangers-we-ignore_638/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/no-love-allowed-dodge-cove-1_625/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/how-to-speak-golf-an-illustrated-guide-to-links-lingo_621/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/eleanor-park_616/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/equal-is-unfair-americas-misguided-fight-against-income-inequality_617/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/take-me-home-tonight-rock-star-romance-3_605/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-improbability-of-love_607/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/exit-pursued-by-a-bear_591/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/it-didnt-start-with-you-how-inherited-family-trauma-shapes-who-we-are-and-how-to-end-the-cycle_593/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/watchmen_579/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/unlimited-intuition-now_578/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-alien-club_569/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-art-and-science-of-low-carbohydrate-living_570/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/a-shard-of-ice-the-black-symphony-saga-1_558/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/silence-in-the-dark-logan-point-4_542/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-high-mountains-of-portugal_547/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/ill-give-you-the-sun_525/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/millers-valley_534/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/out-of-print-city-lights-spotlight-no-14_536/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/proofs-of-god-classical-arguments-from-tertullian-to-barth_538/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/heaven-is-for-real-a-little-boys-astounding-story-of-his-trip-to-heaven-and-back_520/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/between-the-world-and-me_513/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/32-yolks_510/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/being-mortal-medicine-and-what-matters-in-the-end_512/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/future-shock-future-shock-1_519/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/shrunken-treasures-literary-classics-short-sweet-and-silly_484/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/rich-dad-poor-dad_483/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/leave-this-song-behind-teen-poetry-at-its-best_474/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/chronicles-vol-1_462/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/john-adams_472/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-perks-of-being-a-wallflower_453/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales_451/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-sound-of-love_455/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/a-short-history-of-nearly-everything_457/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/tell-the-wolves-im-home_439/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/fun-home-a-family-tragicomic_428/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-barefoot-contessa-cookbook_440/index.html",
+            "price": 60.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/catherine-the-great-portrait-of-a-woman_424/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-hiding-place_406/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-raven-boys-the-raven-cycle-1_411/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/what-if-serious-scientific-answers-to-absurd-hypothetical-questions_416/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-false-prince-the-ascendance-trilogy-1_402/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/last-one-home-new-beginnings-1_383/index.html",
+            "price": 60.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/death-note-vol-5-whiteout-death-note-5_368/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/digital-fortress_369/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/americas-war-for-the-greater-middle-east-a-military-history_361/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/approval-junkie-adventures-in-caring-too-much_363/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/alight-the-generations-trilogy-2_360/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/vogue-colors-a-to-z-a-fashion-coloring-book_355/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-demonists-demonist-1_345/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-perfect-play-play-by-play-1_352/index.html",
+            "price": 60.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html",
+            "price": 60.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/animal-farm_313/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/candide_316/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/a-new-earth-awakening-to-your-lifes-purpose_311/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/a-walk-to-remember_312/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/very-good-lives-the-fringe-benefits-of-failure-and-the-importance-of-imagination_298/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/unstuffed-decluttering-your-home-mind-and-soul_296/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-stand_282/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/trespassing-across-america-one-mans-epic-never-done-before-and-sort-of-illegal-hike-across-the-heartland_291/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-wild-robot_288/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-sandman-vol-3-dream-country-the-sandman-volumes-3_279/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-nanny-diaries-nanny-1_265/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-lovers-dictionary_262/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-husbands-secret_256/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-demon-haunted-world-science-as-a-candle-in-the-dark_242/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-last-painting-of-sara-de-vos_259/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-girl-who-kicked-the-hornets-nest-millennium-trilogy-3_248/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/something-blue-darcy-rachel-2_223/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-blind-side-evolution-of-a-game_231/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-book-thief_233/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/packing-for-mars-the-curious-science-of-life-in-the-void_205/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/seven-days-in-the-art-world_220/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/me-talk-pretty-one-day_193/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/miracles-from-heaven-a-little-girl-her-journey-to-heaven-and-her-amazing-story-of-healing_195/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/midnight-riot-peter-grant-rivers-of-london-books-1_194/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/lady-renegades-rebel-belle-3_181/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/lamb-the-gospel-according-to-biff-christs-childhood-pal_182/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/life-without-a-recipe_188/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/into-the-wild_177/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/holidays-on-ice_167/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/house-of-leaves_169/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/friday-night-lights-a-town-a-team-and-a-dream_158/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/darkfever-fever-1_145/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/dracula_150/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/do-androids-dream-of-electric-sheep-blade-runner-1_149/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/dune-dune-1_151/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/brave-enough_135/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/civilization-and-its-discontents_140/index.html",
+            "price": 60.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/are-we-smart-enough-to-know-how-smart-animals-are_121/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/a-heartbreaking-work-of-staggering-genius_115/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/girlboss_113/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/girl-online-on-tour-girl-online-2_101/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/h-is-for-hawk_102/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-sandman-vol-2-the-dolls-house-the-sandman-volumes-2_110/index.html",
+            "price": 55.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/diary-of-a-minecraft-zombie-book-1-a-scare-of-a-dare-an-unofficial-minecraft-book_99/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/when-im-gone_95/index.html",
+            "price": 52.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/travels-with-charley-in-search-of-america_90/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/vampire-girl-vampire-girl-1_92/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-sandman-vol-1-preludes-and-nocturnes-the-sandman-volumes-1_79/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-light-of-the-fireflies_71/index.html",
+            "price": 54.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-name-of-the-wind-the-kingkiller-chronicle-1_74/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/shameless_52/index.html",
+            "price": 58.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/the-bhagavad-gita_60/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/one-second-seven-7_41/index.html",
+            "price": 53.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/myriad-prentor-1_36/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/giant-days-vol-1-giant-days-1-4_22/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/old-records-never-die-one-mans-quest-for-his-vinyl-and-his-past_39/index.html",
+            "price": 56.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/listen-to-me-fusion-1_29/index.html",
+            "price": 59.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/kitchens-of-the-great-midwest_28/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/ajin-demi-human-volume-1-ajin-demi-human-1_4/index.html",
+            "price": 57.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/eat-pray-love_16/index.html",
+            "price": 51.0
+        },
+        {
+            "url": "https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html",
+            "price": 54.0
+        }
+    ],
+    "query3": [
+        {
+            "sum": 70054.34999999999,
+            "min": 10.0,
+            "max": 60.0,
+            "avg": 35.062237237237234
+        }
+    ],
+    "query4": [
+        {
+            "title": "From the authors of the New York Times bestseller George Washington’s Secret Six ,the little-known story of Thomas Jefferson’s battle to defend America against Islamic pirates. Brian Kilmeade – cohost of “Fox & Friends” on Fox News and the national radio show “Kilmeade & Friends” – returns with another fascinating historical narrative, co-written with Don Yaeger. From the authors of the  New York Times  bestseller  George Washington’s Secret Six , the little-known story of Thomas Jefferson’s battle to defend America against Islamic pirates. Brian Kilmeade – cohost of “Fox & Friends” on Fox News and the national radio show “Kilmeade & Friends” – returns with another fascinating historical narrative, co-written with Don Yaeger. Like their acclaimed bestseller George Washington's Secret Six, Thomas Jefferson and the Tripoli Pirates sheds new light on a vitally important episode that has been forgotten by most Americans.   Only weeks after President Jefferson's inauguration in 1801, he decided to confront the Tripoli pirates who had been kidnapping American ships and sailors, among other outrageous acts. Though inclined toward diplomacy, Jefferson sent warships to blockade Tripoli and protect American shipping, and then escalated to all-out war against the Barbary states.   The tiny American flotilla—with three frigates representing half of the U.S. Navy’s top-of-the-line ships—had some success in blockading the Barbary coast. But that success came to an end when the USS Philadelphia ran aground in Tripoli harbor and was captured. Kilmeade and Yaeger recount the dramatic story of a young American sailor, Stephen Decatur, who snuck into the harbor, boarded the Philadelphia, and set her on fire before escaping amid a torrent of enemy gunfire.   Another amazing story is that of William Eaton’s daring attack on the port city of Derna. He led a detachment of Marines on a 500-mile trek across the desert to surprise the port. His strategy worked, and an American flag was raised in victory on foreign soil for the first time.     Few remember Decatur and Eaton today, but their legacy inspired the opening of the Marine Corps Hymn: “From the halls of Montezuma to the shores of Tripoli, we fight our country’s battles in the air, on land, and sea.” Thomas Jefferson and the Tripoli Pirates tells a dramatic story of bravery, diplomacy, and battle on the high seas, and honors some of America’s forgotten heroes.  ...more",
+            "stars": 0,
+            "price": 60.0
+        },
+        {
+            "title": "Discovered in the attic in which she spent the last years of her life, Anne Frank's remarkable diary has since become a world classic—a powerful reminder of the horrors of war and an eloquent testament to the human spirit.In 1942, with Nazis occupying Holland, a thirteen-year-old Jewish girl and her family fled their home in Amsterdam and went into hiding. For the next two Discovered in the attic in which she spent the last years of her life, Anne Frank's remarkable diary has since become a world classic—a powerful reminder of the horrors of war and an eloquent testament to the human spirit.In 1942, with Nazis occupying Holland, a thirteen-year-old Jewish girl and her family fled their home in Amsterdam and went into hiding. For the next two years, until their whereabouts were betrayed to the Gestapo, they and another family lived cloistered in the \"Secret Annexe\" of an old office building. Cut off from the outside world, they faced hunger, boredom, the constant cruelties of living in confined quarters, and the ever-present threat of discovery and death.In her diary Anne Frank recorded vivid impressions of her experiences during this period. By turns thoughtful, moving, and amusing, her account offers a fascinating commentary on human courage and frailty and a compelling self-portrait of a sensitive and spirited young woman whose promise was tragically cut short. ...more",
+            "stars": 0,
+            "price": 60.0
+        },
+        {
+            "title": "For more than twenty years, Barefoot Contessa, the acclaimed specialty food store, has been cooking and baking extraordinary dishes for enthusiastic customers in the Hamptons. For many of those years, people have tried to get the exuberant owner, Ina Garten, to share the secrets of her store. Finally, the energy and style that make Barefoot Contessa such a special place ar For more than twenty years, Barefoot Contessa, the acclaimed specialty food store, has been cooking and baking extraordinary dishes for enthusiastic customers in the Hamptons. For many of those years, people have tried to get the exuberant owner, Ina Garten, to share the secrets of her store. Finally, the energy and style that make Barefoot Contessa such a special place are shown here, with dozens of recipes and more than 160 breathtaking photographs, in The Barefoot Contessa Cookbook.Ina's most popular recipes use familiar ingredients, but they taste even better than you would expect. Her Pan-Fried Onion Dip is the real thing, with slowly car-amelized onions and fresh sour cream. Tomato soup is created from oven-roasted tomatoes and fresh basil to intensify the flavors. Meat loaf is as good as your grandmother's, but it's healthier because it's made with ground turkey and fresh herbs. The light and flaky Maple-Oatmeal Scones are baked with rolled oats, whole wheat, and real maple syrup. Now these and other famous Barefoot Contessa recipes can be prepared at home.Ina says that before she owned a specialty food store she often spent a week making dinner for six friends. Her experience at Barefoot Contessa has given her hundreds of ideas for creating wonderful parties in a few hours. And they're all in this book. Crab Cakes with Rémoulade Sauce can be stored overnight in the refrigerator and sautéed just before the guests arrive. Cheddar Corn Chowder can be made days ahead, reheated, and served with a salad and bread for a delicious autumn lunch. The ingredients for Grilled Salmon Salad can all be prepared ahead and tossed together before serving. The batter for the Raspberry Corn Muffins can be mixed a day before and popped into the oven just before breakfast.Ina Garten teaches us how to entertain with style, simplicity, and a relaxed sense of fun. There are notes throughout the book for giving cocktail parties, lunches, and dinner parties where everything is done before the guests arrive. And there are easy instructions for creating gorgeous party platters that don't even require you to cook!With Ina Garten and The Barefoot Contessa Cookbook, you have the perfect recipe for hosting parties that are easy and fun for everyone--including the cook. ...more",
+            "stars": 0,
+            "price": 60.0
+        },
+        {
+            "title": "Growing up, Cassie Carter and her sisters, Karen and Nichole, were incredibly close -- until one fateful event drove them apart. After high school, Cassie ran away from home to marry the wrong man, throwing away a college scholarship and breaking her parents’ hearts. To make matters worse, Cassie had always been their father’s favorite -- a sentiment that weighed heavily o Growing up, Cassie Carter and her sisters, Karen and Nichole, were incredibly close -- until one fateful event drove them apart. After high school, Cassie ran away from home to marry the wrong man, throwing away a college scholarship and breaking her parents’ hearts. To make matters worse, Cassie had always been their father’s favorite -- a sentiment that weighed heavily on her sisters and made Cassie’s actions even harder to bear.Now thirty-one, Cassie is back in Washington, living in Seattle with her daughter and hoping to leave her past behind. After ending a difficult marriage, Cassie is back on her own two feet, the pieces of her life slowly but surely coming together. Despite the strides Cassie’s made, she hasn’t been able to make peace with her sisters. Karen, the oldest, is a busy wife and mother, balancing her career with raising her two children. And Nichole, the youngest, is a stay-at-home mom whose husband indulges her every whim. Then one day, Cassie receives a letter from Karen, offering what Cassie thinks may be a chance to reconcile. And as Cassie opens herself up to new possibilities -- making amends with her sisters, finding love once more -- she realizes the power of compassion, and the promise of a fresh start. ...more",
+            "stars": 0,
+            "price": 60.0
+        },
+        {
+            "title": "Football pro Mick Riley is an all-star, both on the field and in the bedroom. But a sexy, determinedly single mom just might be the one to throw him off his game...For years Mick has been taking full advantage of the life available to a pro athlete: fame, fortune, and a different girl in every city. But when he meets and beds confident, beautiful event planner Tara Lincoln Football pro Mick Riley is an all-star, both on the field and in the bedroom. But a sexy, determinedly single mom just might be the one to throw him off his game...For years Mick has been taking full advantage of the life available to a pro athlete: fame, fortune, and a different girl in every city. But when he meets and beds confident, beautiful event planner Tara Lincoln, he wants much more than the typical one-night stand. Too bad Tara's not interested in getting to know football's most notorious playboy any better.As the single mother of a teenage son, the last thing Tara needs is the jet-set lifestyle of Mick Riley; even though their steamy and passionate one-night stand was unforgettable. Tara's life is complicated enough without being thrust into the spotlight as Mick's latest girl du jour. Tara played the game of love once and lost big, and she doesn't intend to put herself out there again, especially with a heartbreaker like Mick.But when Mick sets his mind to win, nothing will stop him. And he has the perfect play in mind. ...more",
+            "stars": 0,
+            "price": 60.0
+        },
+        {
+            "title": "The award-winning author of Valhalla brings back archaeologist Lexy Vaughan and retired Air Force officer Steve Macaulay, as they race to save a priceless discovery from disappearing forever.… One of the greatest archaeological finds of all time, Peking Man, the 780,000-year-old remains of our earliest known human ancestor, disappeared during World War II from a cargo shi The award-winning author of Valhalla brings back archaeologist Lexy Vaughan and retired Air Force officer Steve Macaulay, as they race to save a priceless discovery from disappearing forever.…   One of the greatest archaeological finds of all time, Peking Man, the 780,000-year-old remains of our earliest known human ancestor, disappeared during World War II from a cargo ship bound for America.   Now the Chinese government is fighting to keep a new religion from taking hold—a faith based on the belief that Peking Man is God. And they dispatch ruthless operatives to find and destroy the world’s most priceless fossil.   But the U.S. government has its own team on the hunt. From the mountains of Bavaria to the jungles of Central America and across the vast Pacific, Professor Barnaby Finchem, his brilliant protégé, Lexy Vaughan, and pilot Steve Macaulay will brave the wrath of nature and of man to win a race against unbridled tyranny.… ...more",
+            "stars": 0,
+            "price": 60.0
+        },
+        {
+            "title": "It stands as a brilliant summary of the views on culture from a psychoanalytic perspective that he had been developing since the turn of the century. It is both witness and tribute to the late theory of mind—the so-called structural theory, with its stress on aggression, indeed the death drive, as the pitiless adversary of eros.Civilization and Its Discontents is one of th It stands as a brilliant summary of the views on culture from a psychoanalytic perspective that he had been developing since the turn of the century. It is both witness and tribute to the late theory of mind—the so-called structural theory, with its stress on aggression, indeed the death drive, as the pitiless adversary of eros.Civilization and Its Discontents is one of the last of Freud's books, written in the decade before his death and first published in German in 1929. In it he states his views on the broad question of man's place in the world, a place Freud defines in terms of ceaseless conflict between the individual's quest for freedom and society's demand for conformity.Freud's theme is that what works for civilization doesn't necessarily work for man. Man, by nature aggressive and egotistical, seeks self-satisfaction. But culture inhibits his instinctual drives. The result is a pervasive and familiar guilt.Of the various English translations of Freud's major works to appear in his lifetime, only one was authorized by Freud himself: The Standard Edition of the Complete Psychological Works of Sigmund Freud under the general editorship of James Strachey.Freud approved the overall editorial plan, specific renderings of key words and phrases, and the addition of valuable notes, from bibliographical and explanatory. Many of the translations were done by Strachey himself; the rest were prepared under his supervision. The result was to place the Standard Edition in a position of unquestioned supremacy over all other existing versions. ...more",
+            "stars": 0,
+            "price": 60.0
+        },
+        {
+            "title": "Lin-Manuel Miranda's groundbreaking musical Hamilton is as revolutionary as its subject, the poor kid from the Caribbean who fought the British, defended the Constitution, and helped to found the United States. Fusing hip-hop, pop, R&B, and the best traditions of theater, this once-in-a-generation show broadens the sound of Broadway, reveals the storytelling power of r Lin-Manuel Miranda's groundbreaking musical Hamilton is as revolutionary as its subject, the poor kid from the Caribbean who fought the British, defended the Constitution, and helped to found the United States. Fusing hip-hop, pop, R&B, and the best traditions of theater, this once-in-a-generation show broadens the sound of Broadway, reveals the storytelling power of rap, and claims our country's origins for a diverse new generation.HAMILTON: THE REVOLUTION gives readers an unprecedented view of both revolutions, from the only two writers able to provide it. Miranda, along with Jeremy McCarter, a cultural critic and theater artist who was involved in the project from its earliest stages--\"since before this was even a show,\" according to Miranda--traces its development from an improbable perfor­mance at the White House to its landmark opening night on Broadway six years later. In addition, Miranda has written more than 200 funny, revealing footnotes for his award-winning libretto, the full text of which is published here.Their account features photos by the renowned Frank Ockenfels and veteran Broadway photographer, Joan Marcus; exclusive looks at notebooks and emails; interviews with Questlove, Stephen Sond­heim, leading political commentators, and more than 50 people involved with the production; and multiple appearances by Presi­dent Obama himself. The book does more than tell the surprising story of how a Broadway musical became a national phenomenon: It demonstrates that America has always been renewed by the brash upstarts and brilliant outsiders, the men and women who don't throw away their shot. ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "A \"gray rhino\" is a highly probable, high impact yet neglected threat: kin to both the elephant in the room and the improbable and unforeseeable black swan. Gray rhinos are not random surprises, but occur after a series of warnings and visible evidence. The bursting of the housing bubble in 2008, the devastating aftermath of Hurricane Katrina and other natural disasters, t A \"gray rhino\" is a highly probable, high impact yet neglected threat: kin to both the elephant in the room and the improbable and unforeseeable black swan. Gray rhinos are not random surprises, but occur after a series of warnings and visible evidence. The bursting of the housing bubble in 2008, the devastating aftermath of Hurricane Katrina and other natural disasters, the new digital technologies that upended the media world, the fall of the Soviet Union...all were evident well in advance.Why do leaders and decision makers keep failing to address obvious dangers before they spiral out of control? Drawing on her extensive background in policy formation and crisis management, as well as in-depth interviews with leaders from around the world, Michele Wucker shows in The Gray Rhino how to recognize and strategically counter looming high impact threats. Filled with persuasive stories, real-world examples, and practical advice, The Gray Rhino is essential reading for managers, investors, planners, policy makers, and anyone who wants to understand how to profit by avoiding getting trampled. ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "Bringing you a gripping mystery, Nevada Barr transports you to the wild and dangerous landscapes of America's National Parks and is sure to appeal if you like Sue Grafton and Janet Evanovich.The eighteenth sensational crime novel from New York Times bestselling author Nevada Barr featuring fearless park ranger Anna Pigeon as she battles to solve a heinous crime set amidst Bringing you a gripping mystery, Nevada Barr transports you to the wild and dangerous landscapes of America's National Parks and is sure to appeal if you like Sue Grafton and Janet Evanovich.The eighteenth sensational crime novel from New York Times bestselling author Nevada Barr featuring fearless park ranger Anna Pigeon as she battles to solve a heinous crime set amidst the wild and dangerous landscape of a US National Park. ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "A dazzling, witty and tenderly savage satire of London life and the art world that is also a surprising and wonderful love story.When lovelorn Annie McDee stumbles across a dirty painting in a junk shop while looking for a present for an unsuitable man, she has no idea what she has discovered. Soon she finds herself drawn unwillingly into the tumultuous London art world, p A dazzling, witty and tenderly savage satire of London life and the art world that is also a surprising and wonderful love story.When lovelorn Annie McDee stumbles across a dirty painting in a junk shop while looking for a present for an unsuitable man, she has no idea what she has discovered. Soon she finds herself drawn unwillingly into the tumultuous London art world, populated by exiled Russian oligarchs, avaricious Sheikas, desperate auctioneers and unscrupulous dealers, all scheming to get their hands on her painting - a lost eighteenth-century masterpiece called ‘The Improbability of Love’. Delving into the painting’s past, Annie will uncover not just an illustrious list of former owners, but some of the darkest secrets of European history – and in doing so she might just learn to open up to the possibility of falling in love again. ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "Read Unlimited Intuition Now to develop your own psychic abilities so that you can receive guidance from your soul.How you will benefit:Pray to open your soul guidanceLearn how to read the energy in your chakras with a pendulumTune in to read your own bodyDiscover how to read the body of another personDiscern how much life force is in your foodFocus to tell if food is real Read Unlimited Intuition Now to develop your own psychic abilities so that you can receive guidance from your soul.How you will benefit:Pray to open your soul guidanceLearn how to read the energy in your chakras with a pendulumTune in to read your own bodyDiscover how to read the body of another personDiscern how much life force is in your foodFocus to tell if food is really good for your bodyPractice how to muscle test yourselfRaise your vibration to listen to your angelsGet your ego out of the way so you can listen to divine guidanceStay connected with loved ones when you are apartOpen your psychic centers of clairaudience, claircognizance, clairsentience and clairvoyanceAvoid other people’s ego projections to see what’s really going onProtect your energy so you feel safe and grounded at all times and in all placesStay out of trouble in dangerous situationsUnderstand how your different psychic gifts actually workDeepen your connection to God and feel supported on all levels ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "Filled with insights that are hallmarks of Anna Quindlen’s bestsellers, this extraordinary novel is about a woman coming of age, as she unearths secrets about her family and her town, and surprising truths about herself.For generations the Millers have lived in Miller’s Valley. Mimi Miller tells about her life with intimacy and honesty. As Mimi eavesdrops on her parents an Filled with insights that are hallmarks of Anna Quindlen’s bestsellers, this extraordinary novel is about a woman coming of age, as she unearths secrets about her family and her town, and surprising truths about herself.For generations the Millers have lived in Miller’s Valley. Mimi Miller tells about her life with intimacy and honesty. As Mimi eavesdrops on her parents and quietly observes the people around her, she discovers more and more about the toxicity of family secrets, the dangers of gossip, the flaws of marriage, the inequalities of friendship and the risks of passion, loyalty, and love. Home, as Mimi begins to realize, can be “a place where it’s just as easy to feel lost as it is to feel content.” Miller’s Valley is a masterly study of family, memory, loss, and, ultimately, discovery, of finding true identity and a new vision of home. As Mimi says, “No one ever leaves the town where they grew up, even if they go.” Miller’s Valley reminds us that the place where you grew up can disappear, and the people in it too, but all will live on in your heart forever. ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "In his most extraordinary book, \"one of the great clinical writers of the twentieth century\" (The New York Times) recounts the case histories of patients lost in the bizarre, apparently inescapable world of neurological disorders. Oliver Sacks's The Man Who Mistook His Wife for a Hat tells the stories of individuals afflicted with fantastic perceptual and intellectual aber In his most extraordinary book, \"one of the great clinical writers of the twentieth century\" (The New York Times) recounts the case histories of patients lost in the bizarre, apparently inescapable world of neurological disorders. Oliver Sacks's The Man Who Mistook His Wife for a Hat tells the stories of individuals afflicted with fantastic perceptual and intellectual aberrations: patients who have lost their memories and with them the greater part of their pasts; who are no longer able to recognize people and common objects; who are stricken with violent tics and grimaces or who shout involuntary obscenities; whose limbs have become alien; who have been dismissed as retarded yet are gifted with uncanny artistic or mathematical talents.If inconceivably strange, these brilliant tales remain, in Dr. Sacks's splendid and sympathetic telling, deeply human. They are studies of life struggling against incredible adversity, and they enable us to enter the world of the neurologically impaired, to imagine with our hearts what it must be to live and feel as they do. A great healer, Sacks never loses sight of medicine's ultimate responsibility: \"the suffering, afflicted, fighting human subject.\" ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "Pulitzer Prize winner Massie offers the tale of a princess who went to Russia at 14 and became one of the most powerful women in history. Born into minor German nobility, she transformed herself into an empress by sheer determination. Possessing a brilliant, curious mind, she devoured the works of Enlightenment philosophers, and reaching the throne, tried using their princ Pulitzer Prize winner Massie offers the tale of a princess who went to Russia at 14 and became one of the most powerful women in history. Born into minor German nobility, she transformed herself into an empress by sheer determination. Possessing a brilliant, curious mind, she devoured the works of Enlightenment philosophers, and reaching the throne, tried using their principles to rule the vast, backward empire. She knew or corresponded with notable figures of her time: Voltaire, Diderot, Frederick the Great, Maria Theresa of Austria, Marie Antoinette & John Paul Jones. Wanting to be the “benevolent despot” Montesquieu idealized, she contended with the deeply ingrained realities of Russian life, including serfdom. She persevered, and for 34 years the government, foreign policy, cultural development and welfare of the Russian people were in her hands. She dealt with domestic rebellion, wars & the tides of political change and violence inspired by the French Revolution. Her reputation depended on the perspective of the speaker. She was praised by Voltaire as like the classical philosophers. She was condemned by enemies, mostly foreign, as “the Messalina of the north.” Her family, friends, ministers, generals, lovers and enemies are vividly described. These included her ambitious, scheming mother; her weak, bullying husband, Peter (who left her sexually untouched for nine years after their marriage); her unhappy son & heir, Paul; her beloved grandchildren; and her favorites — the young men from whom she sought companionship and the recapture of youth as well as sex. Here, too, is Gregory Potemkin, her most significant lover & possible husband, with whom she shared a correspondence of love & separation, followed by 17 years of unparalleled mutual achievement. All the qualities that Massie brought to Nicholas & Alexandra and Peter the Great are present: historical accuracy, deep understanding, felicity of style, mastery of detail, ability to shatter myth & a genius for finding and expressing a human drama. ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "From comedian and journalist Faith Salie, of NPR's Wait Wait…Don't Tell Me! and CBS News Sunday Morning, a collection of daring, funny essays chronicling the author's adventures during her lifelong quest for approval Faith Salie has done it all in the name of validation. Whether it’s trying to impress her parents with a perfect GPA, undergoing an exorsism in the hopes of From comedian and journalist Faith Salie, of NPR's Wait Wait…Don't Tell Me! and CBS News Sunday Morning, a collection of daring, funny essays chronicling the author's adventures during her lifelong quest for approval   Faith Salie has done it all in the name of validation. Whether it’s trying to impress her parents with a perfect GPA, undergoing an exorsism in the hopes of saving her toxic marriage, or maintaining the BMI of “a flapper with a touch of dysentery,” Salie is the ultimate approval seeker—an “approval junkie,” if you will. In “Miss Aphrodite,” she recounts her strategy for winning the high school beauty pageant. (“Not to brag or anything, but no one stood a chance against my emaciated, spastic resolve.”) “What I Wore to My Divorce” describes Salie’s struggle to pick the perfect outfit to wear to the courthouse to divorce her “wasband.” (“I envisioned a look that said, ‘Yo, THIS is what you’ll be missing…even though you’ve introduced your new girlfriend to our mutual friends, and she’s a decade younger than I am and is also a fit model.”) In \"Ovary Achiever,\" she shares tips on how to ace your egg retrieval. (“Thank your fertility doctor when she announces you have ‘amazing ovaries.’ Try to be humble about it [‘Oh,these old things?’].”) And in “Wait, Wait, Don’t Tell Me About Batman’s Nipples” she reveals the secrets behind Wait Wait…Don’t Tell Me! (“I study for this show like Tracy Flick on Adderall”). With thoughtful irreverence, Salie reflects on why she tries so hard to please others, and herself, highlighting a phenomenon that many people—especially women—experience at home and in the workplace. Equal parts laugh-out loud funny and poignant, Approval Junkie is one woman’s journey to realizing that seeking approval from others is more than just getting them to like you—it's challenging yourself to achieve, and survive, more than you ever thought you could. ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "Alight is the second installment in the YA sci-fi adventure trilogy by New York Times bestselling author Scott Sigler, hot on the heels of Alive.Alight reveals to readers the further adventures of Em, Spingate, O’Malley, Bishop, and the other young heroes introduced in Alive. In Alive, Em fought to assert herself as leader and her friends tried to comprehend their own myst Alight is the second installment in the YA sci-fi adventure trilogy by New York Times bestselling author Scott Sigler, hot on the heels of Alive.Alight reveals to readers the further adventures of Em, Spingate, O’Malley, Bishop, and the other young heroes introduced in Alive. In Alive, Em fought to assert herself as leader and her friends tried to comprehend their own mysterious identity; now she must wrestle not with the challenge of winning power but the grave responsibility of having assumed it, and she and her friends must contend with a grim fact: the revelation of their identity is not an answer but another question—and one with terrifying implications. ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "Brought up in the household of a powerful Baron, Candide is an open-minded young man, whose tutor, Pangloss, has instilled in him the belief that 'all is for the best'. But when his love for the Baron's rosy-cheeked daughter is discovered, Candide is cast out to make his own way in the world. And so he and his various companions begin a breathless tour of Europe, South Ame Brought up in the household of a powerful Baron, Candide is an open-minded young man, whose tutor, Pangloss, has instilled in him the belief that 'all is for the best'. But when his love for the Baron's rosy-cheeked daughter is discovered, Candide is cast out to make his own way in the world. And so he and his various companions begin a breathless tour of Europe, South America and Asia, as an outrageous series of disasters befall them - earthquakes, syphilis, a brush with the Inquisition, murder - sorely testing the young hero's optimism. ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "The much anticipated sequel to the breathtaking The Wrath and the Dawn, lauded by Publishers Weekly as \"a potent page-turner of intrigue and romance.\"I am surrounded on all sides by a desert. A guest, in a prison of sand and sun. My family is here. And I do not know whom I can trust.In a land on the brink of war, Shahrzad has been torn from the love of her husband Khalid, The much anticipated sequel to the breathtaking The Wrath and the Dawn, lauded by Publishers Weekly as \"a potent page-turner of intrigue and romance.\"I am surrounded on all sides by a desert. A guest, in a prison of sand and sun. My family is here. And I do not know whom I can trust.In a land on the brink of war, Shahrzad has been torn from the love of her husband Khalid, the Caliph of Khorasan. She once believed him a monster, but his secrets revealed a man tormented by guilt and a powerful curse—one that might keep them apart forever. Reunited with her family, who have taken refuge with enemies of Khalid, and Tariq, her childhood sweetheart, she should be happy. But Tariq now commands forces set on destroying Khalid's empire. Shahrzad is almost a prisoner caught between loyalties to people she loves. But she refuses to be a pawn and devises a plan.While her father, Jahandar, continues to play with magical forces he doesn't yet understand, Shahrzad tries to uncover powers that may lie dormant within her. With the help of a tattered old carpet and a tempestuous but sage young man, Shahrzad will attempt to break the curse and reunite with her one true love.From the Hardcover edition. ...more",
+            "stars": 0,
+            "price": 59.0
+        },
+        {
+            "title": "On one side, there is Grace: prize-winning author Diana Abu-Jaber’s tough, independent sugar-fiend of a German grandmother, wielding a suitcase full of holiday cookies. On the other, Bud: a flamboyant, spice-obsessed Arab father, full of passionate argument. The two could not agree on anything: not about food, work, or especially about what Diana should do with her life. G On one side, there is Grace: prize-winning author Diana Abu-Jaber’s tough, independent sugar-fiend of a German grandmother, wielding a suitcase full of holiday cookies. On the other, Bud: a flamboyant, spice-obsessed Arab father, full of passionate argument. The two could not agree on anything: not about food, work, or especially about what Diana should do with her life. Grace warned her away from children. Bud wanted her married above all—even if he had to provide the ring. Caught between cultures and lavished with contradictory “advice” from both sides of her family, Diana spent years learning how to ignore others’ well-intentioned prescriptions.Hilarious, gorgeously written, poignant, and wise, Life Without a Recipe is Diana’s celebration of journeying without a map, of learning to ignore the script and improvise, of escaping family and making family on one’s own terms. As Diana discovers, however, building confidence in one’s own path sometimes takes a mistaken marriage or two—or in her case, three: to a longhaired boy-poet, to a dashing deconstructionist literary scholar, and finally to her steadfast, outdoors-loving Scott. It also takes a good deal of angst (was it possible to have a serious writing career and be a mother?) and, even when she knew what she wanted (the craziest thing, in one’s late forties: a baby!), the nerve to pursue it.Finally, fearlessly independent like the Grace she’s named after, Diana and Scott’s daughter Gracie will heal all the old battles with Bud and, like her writer-mom, learn to cook up a life without a recipe. ...more",
+            "stars": 0,
+            "price": 59.0
+        }
+    ],
+    "query5": [
+        {
+            "count": 226
+        }
+    ],
+    "query6": [
+        {
+            "title": "\"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty's \"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty's dresser and the two head for the bright lights of Leicester Square where they begin a glittering career as music-hall stars in an all-singing and dancing double act. At the same time, behind closed doors, they admit their attraction to each other and their affair begins. ...more",
+            "category": "historical fiction",
+            "description": "('\"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty\\'s \"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty\\'s dresser and the two head for the bright lights of Leicester Square where they begin a glittering career as music-hall stars in an all-singing and dancing double act. At the same time, behind closed doors, they admit their attraction to each other and their affair begins. ...more',)"
+        },
+        {
+            "title": "A Proper Historical Romance seriesThe first book in a new series which will focus on the lives of real historical figures who have intriguing stories of courtship that are recreated in fictionalized accounts based on real biographical and social history research.\"A well-researched, emotionally charged tale. A love story...fit for the ages.\" -Publishers Weekly.It's 1836, an A Proper Historical Romance seriesThe first book in a new series which will focus on the lives of real historical figures who have intriguing stories of courtship that are recreated in fictionalized accounts based on real biographical and social history research.\"A well-researched, emotionally charged tale. A love story...fit for the ages.\" -Publishers Weekly.It's 1836, and nineteen-year-old Fanny Appleton, a privileged daughter of a wealthy, upper-class Boston industrialist, is touring Europe with her family. Like many girls of her day, she enjoys the fine clothes, food, and company of the elite social circles. But unlike her peers, Fanny is also drawn to education, literature, and more intellectual pursuits.Published author and poet Henry Wadsworth Longfellow is also touring Europe, but under much different circumstances. Widowed while on tour, he has stayed in order to gather credentials that he hopes will secure his professorship at Harvard College. When Henry meets Fanny, he sees in her a kindred spirit, a lover of language and literature and high ideals. He is in love. Fanny, however, is uncertain. He is ten years older than she is, and from a much lower social class. How could such a relationship ever thrive?Could a book of Henry’s poetry, personally delivered, persuade Fanny to believe in a love that lasts forever and forever? ...more",
+            "category": "historical fiction",
+            "description": "('A Proper Historical Romance seriesThe first book in a new series which will focus on the lives of real historical figures who have intriguing stories of courtship that are recreated in fictionalized accounts based on real biographical and social history research.\"A well-researched, emotionally charged tale. A love story...fit for the ages.\" -Publishers Weekly.It\\'s 1836, an A Proper Historical Romance seriesThe first book in a new series which will focus on the lives of real historical figures who have intriguing stories of courtship that are recreated in fictionalized accounts based on real biographical and social history research.\"A well-researched, emotionally charged tale. A love story...fit for the ages.\" -Publishers Weekly.It\\'s 1836, and nineteen-year-old Fanny Appleton, a privileged daughter of a wealthy, upper-class Boston industrialist, is touring Europe with her family. Like many girls of her day, she enjoys the fine clothes, food, and company of the elite social circles. But unlike her peers, Fanny is also drawn to education, literature, and more intellectual pursuits.Published author and poet Henry Wadsworth Longfellow is also touring Europe, but under much different circumstances. Widowed while on tour, he has stayed in order to gather credentials that he hopes will secure his professorship at Harvard College. When Henry meets Fanny, he sees in her a kindred spirit, a lover of language and literature and high ideals. He is in love. Fanny, however, is uncertain. He is ten years older than she is, and from a much lower social class. How could such a relationship ever thrive?Could a book of Henry’s poetry, personally delivered, persuade Fanny to believe in a love that lasts forever and forever? ...more',)"
+        },
+        {
+            "title": "October 1776--August 1777It is said that what a man sows he will reap--and for such a harvest there is no set season. No one connected to Reginald Aubrey is untouched by the crime he committed twenty years ago. Not William, the Oneida child Reginald stole and raised as his own. Identity shattered, enlisted in the British army, William trains with Loyalist refugees eager to October 1776--August 1777It is said that what a man sows he will reap--and for such a harvest there is no set season. No one connected to Reginald Aubrey is untouched by the crime he committed twenty years ago. Not William, the Oneida child Reginald stole and raised as his own. Identity shattered, enlisted in the British army, William trains with Loyalist refugees eager to annihilate the rebels who forced them into exile. Coming to terms with who and what he is proves impossible, but if he breaks his Loyalist oath, he'll be no better than the man who constructed his life of lies.Not Anna, Reginald's adopted daughter, nor Two Hawks, William's twin, both who long for Reginald to accept their love despite the challenges they will face, building a marriage that bridges two cultures. Not Good Voice and Stone Thrower, freed of bitterness by a courageous act of forgiveness, but still yearning for their firstborn son and fearful for the future of their Oneida people.As the British prepare to attack frontier New York and Patriot regiments rally to defend it, two families separated by culture, united by love, will do all in their power to reclaim the son marching toward them in the ranks of their enemies. ...more",
+            "category": "historical fiction",
+            "description": "(\"October 1776--August 1777It is said that what a man sows he will reap--and for such a harvest there is no set season. No one connected to Reginald Aubrey is untouched by the crime he committed twenty years ago. Not William, the Oneida child Reginald stole and raised as his own. Identity shattered, enlisted in the British army, William trains with Loyalist refugees eager to October 1776--August 1777It is said that what a man sows he will reap--and for such a harvest there is no set season. No one connected to Reginald Aubrey is untouched by the crime he committed twenty years ago. Not William, the Oneida child Reginald stole and raised as his own. Identity shattered, enlisted in the British army, William trains with Loyalist refugees eager to annihilate the rebels who forced them into exile. Coming to terms with who and what he is proves impossible, but if he breaks his Loyalist oath, he'll be no better than the man who constructed his life of lies.Not Anna, Reginald's adopted daughter, nor Two Hawks, William's twin, both who long for Reginald to accept their love despite the challenges they will face, building a marriage that bridges two cultures. Not Good Voice and Stone Thrower, freed of bitterness by a courageous act of forgiveness, but still yearning for their firstborn son and fearful for the future of their Oneida people.As the British prepare to attack frontier New York and Patriot regiments rally to defend it, two families separated by culture, united by love, will do all in their power to reclaim the son marching toward them in the ranks of their enemies. ...more\",)"
+        },
+        {
+            "title": "Anna is content with her well-ordered life in San Francisco. But her world is turned upside down when her beloved grandfather, Max, reveals a startling secret: Anna is part of an aristocratic family who lost everything during World War II. What’s more, Max was forced to leave behind a precious item over seventy years ago in their estate in old Prussia. It’s now his ardent Anna is content with her well-ordered life in San Francisco. But her world is turned upside down when her beloved grandfather, Max, reveals a startling secret: Anna is part of an aristocratic family who lost everything during World War II. What’s more, Max was forced to leave behind a precious item over seventy years ago in their estate in old Prussia. It’s now his ardent wish that Anna retrieve it.Anna burns with questions as she heads for Germany: What memento could be so important to her grandfather? And why did he keep their history hidden? As she searches for answers, she finds herself drawn to Wil, a man who may hold the key to unlock the mystery. Together they discover that her family’s secrets are linked with an abandoned apartment in Paris, and these secrets go deeper than she ever imagined.Alternating between 1930s Europe and the present, The House by the Lake illuminates the destiny of a family caught in the tumult of history. ...more",
+            "category": "historical fiction",
+            "description": "('Anna is content with her well-ordered life in San Francisco. But her world is turned upside down when her beloved grandfather, Max, reveals a startling secret: Anna is part of an aristocratic family who lost everything during World War II. What’s more, Max was forced to leave behind a precious item over seventy years ago in their estate in old Prussia. It’s now his ardent Anna is content with her well-ordered life in San Francisco. But her world is turned upside down when her beloved grandfather, Max, reveals a startling secret: Anna is part of an aristocratic family who lost everything during World War II. What’s more, Max was forced to leave behind a precious item over seventy years ago in their estate in old Prussia. It’s now his ardent wish that Anna retrieve it.Anna burns with questions as she heads for Germany: What memento could be so important to her grandfather? And why did he keep their history hidden? As she searches for answers, she finds herself drawn to Wil, a man who may hold the key to unlock the mystery. Together they discover that her family’s secrets are linked with an abandoned apartment in Paris, and these secrets go deeper than she ever imagined.Alternating between 1930s Europe and the present, The House by the Lake illuminates the destiny of a family caught in the tumult of history. ...more',)"
+        },
+        {
+            "title": "A captivating debut novel, meticulously researched and beautifully imagined, about the passionate marriage of Harry and Bess Houdini—a love story that defied death itself.Before escape artist Harry Houdini died, he vowed he would find a way to speak to his beloved wife Bess from beyond the grave using a coded message known only to the two of them. When a widowed Bess begin A captivating debut novel, meticulously researched and beautifully imagined, about the passionate marriage of Harry and Bess Houdini—a love story that defied death itself.Before escape artist Harry Houdini died, he vowed he would find a way to speak to his beloved wife Bess from beyond the grave using a coded message known only to the two of them. When a widowed Bess begins seeing this code in seemingly impossible places, it becomes clear that Harry has an urgent message to convey. Unlocking the puzzle will set Bess on a course back through the pair’s extraordinary romance, which swept the illusionist and his bride from the beaches of Coney Island, to the palaces of Budapest, to the back lots of Hollywood. When the mystery finally leads Bess to the doorstep of a mysterious young photographer, she realizes that her husband’s magic may have been more than just illusion.In surprising turns that weave through the uncertain days of the dawn of the twentieth century and continue into the dazzling 1920s, Mrs. Houdini is a thrilling tale that will take you deep into the heart of one of history’s greatest love stories—asking what drives people to believe in something bigger than themselves—even as it reveals the famous magician’s most remarkable feat of all. ...more",
+            "category": "historical fiction",
+            "description": "('A captivating debut novel, meticulously researched and beautifully imagined, about the passionate marriage of Harry and Bess Houdini—a love story that defied death itself.Before escape artist Harry Houdini died, he vowed he would find a way to speak to his beloved wife Bess from beyond the grave using a coded message known only to the two of them. When a widowed Bess begin A captivating debut novel, meticulously researched and beautifully imagined, about the passionate marriage of Harry and Bess Houdini—a love story that defied death itself.Before escape artist Harry Houdini died, he vowed he would find a way to speak to his beloved wife Bess from beyond the grave using a coded message known only to the two of them. When a widowed Bess begins seeing this code in seemingly impossible places, it becomes clear that Harry has an urgent message to convey. Unlocking the puzzle will set Bess on a course back through the pair’s extraordinary romance, which swept the illusionist and his bride from the beaches of Coney Island, to the palaces of Budapest, to the back lots of Hollywood. When the mystery finally leads Bess to the doorstep of a mysterious young photographer, she realizes that her husband’s magic may have been more than just illusion.In surprising turns that weave through the uncertain days of the dawn of the twentieth century and continue into the dazzling 1920s, Mrs. Houdini is a thrilling tale that will take you deep into the heart of one of history’s greatest love stories—asking what drives people to believe in something bigger than themselves—even as it reveals the famous magician’s most remarkable feat of all. ...more',)"
+        },
+        {
+            "title": "From the New York Times bestselling author of The Dovekeepers and The Museum of Extraordinary Things: a forbidden love story set on the tropical island of St. Thomas about the extraordinary woman who gave birth to painter Camille Pissarro; the Father of Impressionism.Growing up on idyllic St. Thomas in the early 1800s, Rachel dreams of life in faraway Paris. Rachel's mothe From the New York Times bestselling author of The Dovekeepers and The Museum of Extraordinary Things: a forbidden love story set on the tropical island of St. Thomas about the extraordinary woman who gave birth to painter Camille Pissarro; the Father of Impressionism.Growing up on idyllic St. Thomas in the early 1800s, Rachel dreams of life in faraway Paris. Rachel's mother, a pillar of their small refugee community of Jews who escaped the Inquisition, has never forgiven her daughter for being a difficult girl who refuses to live by the rules. Growing up, Rachel's salvation is their maid Adelle's belief in her strengths, and her deep, life-long friendship with Jestine, Adelle's daughter. But Rachel's life is not her own. She is married off to a widower with three children to save her father's business. When her husband dies suddenly and his handsome, much younger nephew, Fréderick, arrives from France to settle the estate, Rachel seizes her own life story, beginning a defiant, passionate love affair that sparks a scandal that affects all of her family, including her favorite son, who will become one of the greatest artists of France.Building on the triumphs of The Dovekeepers and The Museum of Extraordinary Things, set in a world of almost unimaginable beauty, The Marriage of Opposites showcases the beloved, bestselling Alice Hoffman at the height of her considerable powers. Once forgotten to history, the marriage of Rachel and Fréderick is a story that is as unforgettable as it is remarkable. ...more",
+            "category": "historical fiction",
+            "description": "(\"From the New York Times bestselling author of The Dovekeepers and The Museum of Extraordinary Things: a forbidden love story set on the tropical island of St. Thomas about the extraordinary woman who gave birth to painter Camille Pissarro; the Father of Impressionism.Growing up on idyllic St. Thomas in the early 1800s, Rachel dreams of life in faraway Paris. Rachel's mothe From the New York Times bestselling author of The Dovekeepers and The Museum of Extraordinary Things: a forbidden love story set on the tropical island of St. Thomas about the extraordinary woman who gave birth to painter Camille Pissarro; the Father of Impressionism.Growing up on idyllic St. Thomas in the early 1800s, Rachel dreams of life in faraway Paris. Rachel's mother, a pillar of their small refugee community of Jews who escaped the Inquisition, has never forgiven her daughter for being a difficult girl who refuses to live by the rules. Growing up, Rachel's salvation is their maid Adelle's belief in her strengths, and her deep, life-long friendship with Jestine, Adelle's daughter. But Rachel's life is not her own. She is married off to a widower with three children to save her father's business. When her husband dies suddenly and his handsome, much younger nephew, Fréderick, arrives from France to settle the estate, Rachel seizes her own life story, beginning a defiant, passionate love affair that sparks a scandal that affects all of her family, including her favorite son, who will become one of the greatest artists of France.Building on the triumphs of The Dovekeepers and The Museum of Extraordinary Things, set in a world of almost unimaginable beauty, The Marriage of Opposites showcases the beloved, bestselling Alice Hoffman at the height of her considerable powers. Once forgotten to history, the marriage of Rachel and Fréderick is a story that is as unforgettable as it is remarkable. ...more\",)"
+        },
+        {
+            "title": "From the author of the New York Times bestseller and beloved book club favorite The Kitchen House, a novel of family and long-buried secrets along the treacherous Underground Railroad.Jamie Pyke, son of both a slave and master of Tall Oakes, has a deadly secret that compels him to take a treacherous journey through the Underground Railroad.Published in 2010, The Kitchen Ho From the author of the New York Times bestseller and beloved book club favorite The Kitchen House, a novel of family and long-buried secrets along the treacherous Underground Railroad.Jamie Pyke, son of both a slave and master of Tall Oakes, has a deadly secret that compels him to take a treacherous journey through the Underground Railroad.Published in 2010, The Kitchen House became a grassroots bestseller. Fans connected so deeply to the book’s characters that the author, Kathleen Grissom, found herself being asked over and over “what happens next?” The wait is finally over.This new, stand-alone novel opens in 1830, and Jamie, who fled from the Virginian plantation he once called home, is passing in Philadelphia society as a wealthy white silversmith. After many years of striving, Jamie has achieved acclaim and security, only to discover that his aristocratic lover Caroline is pregnant. Before he can reveal his real identity to her, he learns that his beloved servant Pan has been captured and sold into slavery in the South. Pan’s father, to whom Jamie owes a great debt, pleads for Jamie’s help, and Jamie agrees, knowing the journey will take him perilously close to Tall Oakes and the ruthless slave hunter who is still searching for him. Meanwhile, Caroline’s father learns and exposes Jamie’s secret, and Jamie loses his home, his business, and finally Caroline.Heartbroken and with nothing to lose, Jamie embarks on a trip to a North Carolina plantation where Pan is being held with a former Tall Oakes slave named Sukey, who is intent on getting Pan to the Underground Railroad. Soon the three of them are running through the Great Dismal Swamp, the notoriously deadly hiding place for escaped slaves. Though they have help from those in the Underground Railroad, not all of them will make it out alive. ...more",
+            "category": "historical fiction",
+            "description": "('From the author of the New York Times bestseller and beloved book club favorite The Kitchen House, a novel of family and long-buried secrets along the treacherous Underground Railroad.Jamie Pyke, son of both a slave and master of Tall Oakes, has a deadly secret that compels him to take a treacherous journey through the Underground Railroad.Published in 2010, The Kitchen Ho From the author of the New York Times bestseller and beloved book club favorite The Kitchen House, a novel of family and long-buried secrets along the treacherous Underground Railroad.Jamie Pyke, son of both a slave and master of Tall Oakes, has a deadly secret that compels him to take a treacherous journey through the Underground Railroad.Published in 2010, The Kitchen House became a grassroots bestseller. Fans connected so deeply to the book’s characters that the author, Kathleen Grissom, found herself being asked over and over “what happens next?” The wait is finally over.This new, stand-alone novel opens in 1830, and Jamie, who fled from the Virginian plantation he once called home, is passing in Philadelphia society as a wealthy white silversmith. After many years of striving, Jamie has achieved acclaim and security, only to discover that his aristocratic lover Caroline is pregnant. Before he can reveal his real identity to her, he learns that his beloved servant Pan has been captured and sold into slavery in the South. Pan’s father, to whom Jamie owes a great debt, pleads for Jamie’s help, and Jamie agrees, knowing the journey will take him perilously close to Tall Oakes and the ruthless slave hunter who is still searching for him. Meanwhile, Caroline’s father learns and exposes Jamie’s secret, and Jamie loses his home, his business, and finally Caroline.Heartbroken and with nothing to lose, Jamie embarks on a trip to a North Carolina plantation where Pan is being held with a former Tall Oakes slave named Sukey, who is intent on getting Pan to the Underground Railroad. Soon the three of them are running through the Great Dismal Swamp, the notoriously deadly hiding place for escaped slaves. Though they have help from those in the Underground Railroad, not all of them will make it out alive. ...more',)"
+        },
+        {
+            "title": "Juliana Telford is not your average nineteenth-century young lady. She’s much more interested in researching ladybugs than marriage, fashionable dresses, or dances. So when her father sends her to London for a season, she’s determined not to form any attachments. Instead, she plans to secretly publish their research.Spencer Northam is not the average young gentleman of lei Juliana Telford is not your average nineteenth-century young lady. She’s much more interested in researching ladybugs than marriage, fashionable dresses, or dances. So when her father sends her to London for a season, she’s determined not to form any attachments. Instead, she plans to secretly publish their research.Spencer Northam is not the average young gentleman of leisure he appears. He is actually a spy for the War Office, and is more focused on acing his first mission than meeting eligible ladies. Fortunately, Juliana feels the same, and they agree to pretend to fall for each other. Spencer can finally focus, until he is tasked with observing Juliana’s traveling companions . . . and Juliana herself. ...more",
+            "category": "historical fiction",
+            "description": "('Juliana Telford is not your average nineteenth-century young lady. She’s much more interested in researching ladybugs than marriage, fashionable dresses, or dances. So when her father sends her to London for a season, she’s determined not to form any attachments. Instead, she plans to secretly publish their research.Spencer Northam is not the average young gentleman of lei Juliana Telford is not your average nineteenth-century young lady. She’s much more interested in researching ladybugs than marriage, fashionable dresses, or dances. So when her father sends her to London for a season, she’s determined not to form any attachments. Instead, she plans to secretly publish their research.Spencer Northam is not the average young gentleman of leisure he appears. He is actually a spy for the War Office, and is more focused on acing his first mission than meeting eligible ladies. Fortunately, Juliana feels the same, and they agree to pretend to fall for each other. Spencer can finally focus, until he is tasked with observing Juliana’s traveling companions . . . and Juliana herself. ...more',)"
+        },
+        {
+            "title": "Bienvenue à Paris!When April Vogt's boss tells her about an apartment in the ninth arrondissement that has been discovered after being shuttered for the past seventy years, the Sotheby's continental furniture specialist does not hear the words “dust” or “rats” or “decrepit.” She hears Paris. She hears escape.Once in France, April quickly learns the apartment is not merely Bienvenue à Paris!When April Vogt's boss tells her about an apartment in the ninth arrondissement that has been discovered after being shuttered for the past seventy years, the Sotheby's continental furniture specialist does not hear the words “dust” or “rats” or “decrepit.” She hears Paris. She hears escape.Once in France, April quickly learns the apartment is not merely some rich hoarder's repository. Beneath the cobwebs and stale perfumed air is a goldmine, and not because of the actual gold (or painted ostrich eggs or mounted rhinoceros horns or bronze bathtub). First, there's a portrait by one of the masters of the Belle Epoque, Giovanni Boldini. And then there are letters and journals written by the very woman in the painting, Marthe de Florian. These documents reveal that she was more than a renowned courtesan with enviable decolletage. Suddenly April's quest is no longer about the bureaux plats and Louis-style armchairs that will fetch millions at auction. It's about discovering the story behind this charismatic woman.It's about discovering two women, actually.With the help of a salty (and annoyingly sexy) Parisian solicitor and the courtesan's private diaries, April tries to uncover the many secrets buried in the apartment. As she digs into Marthe's life, April can't help but take a deeper look into her own. Having left behind in the States a cheating husband, a family crisis about to erupt, and a career she's been using as the crutch to simply get by, she feels compelled to sort out her own life too. When the things she left bubbling back home begin to boil over, and Parisian delicacies beyond flaky pâtisseries tempt her better judgment, April knows that both she and Marthe deserve happy finales.Whether accompanied by croissants or champagne, this delectable debut novel depicts the Paris of the Belle Epoque and the present day with vibrant and stunning allure. Based on historical events, Michelle Gable's A Paris Apartment will entertain and inspire, as readers embrace the struggles and successes of two very unforgettable women. ...more",
+            "category": "historical fiction",
+            "description": "(\"Bienvenue à Paris!When April Vogt's boss tells her about an apartment in the ninth arrondissement that has been discovered after being shuttered for the past seventy years, the Sotheby's continental furniture specialist does not hear the words “dust” or “rats” or “decrepit.” She hears Paris. She hears escape.Once in France, April quickly learns the apartment is not merely Bienvenue à Paris!When April Vogt's boss tells her about an apartment in the ninth arrondissement that has been discovered after being shuttered for the past seventy years, the Sotheby's continental furniture specialist does not hear the words “dust” or “rats” or “decrepit.” She hears Paris. She hears escape.Once in France, April quickly learns the apartment is not merely some rich hoarder's repository. Beneath the cobwebs and stale perfumed air is a goldmine, and not because of the actual gold (or painted ostrich eggs or mounted rhinoceros horns or bronze bathtub). First, there's a portrait by one of the masters of the Belle Epoque, Giovanni Boldini. And then there are letters and journals written by the very woman in the painting, Marthe de\\xa0Florian. These documents\\xa0reveal that she was more than a renowned courtesan with enviable decolletage. Suddenly April's quest is no longer about the bureaux plats and Louis-style armchairs that will fetch millions at auction. It's about discovering the story behind this charismatic woman.It's about discovering two women, actually.With the help of a salty (and annoyingly sexy)\\xa0Parisian solicitor and the courtesan's private diaries, April tries to uncover the many\\xa0secrets buried in the apartment. As she digs into Marthe's life, April can't help but take a deeper look into her own. Having left behind in the States a cheating husband, a family crisis about to erupt, and a career she's been using as the crutch to simply get by, she feels compelled to sort out her own life too. When the\\xa0things she left bubbling back home begin to boil over, and Parisian delicacies beyond flaky pâtisseries tempt her better judgment,\\xa0April knows that both she and Marthe deserve happy finales.Whether accompanied by croissants or champagne, this delectable debut novel depicts the Paris of the Belle\\xa0Epoque and the present day with vibrant and stunning allure. Based on historical events, Michelle\\xa0Gable's A Paris Apartment will entertain and inspire, as readers embrace the struggles and successes of two very unforgettable women. ...more\",)"
+        },
+        {
+            "title": "Inspired by the life of a real World War II heroine, this debut novel reveals a story of love, redemption, and secrets that were hidden for decades.New York socialite Caroline Ferriday has her hands full with her post at the French consulate and a new love on the horizon. But Caroline’s world is forever changed when Hitler’s army invades Poland in September 1939—and then s Inspired by the life of a real World War II heroine, this debut novel reveals a story of love, redemption, and secrets that were hidden for decades. New York socialite Caroline Ferriday has her hands full with her post at the French consulate and a new love on the horizon. But Caroline’s world is forever changed when Hitler’s army invades Poland in September 1939—and then sets its sights on France.   An ocean away from Caroline, Kasia Kuzmerick, a Polish teenager, senses her carefree youth disappearing as she is drawn deeper into her role as courier for the underground resistance movement. In a tense atmosphere of watchful eyes and suspecting neighbors, one false move can have dire consequences.   For the ambitious young German doctor, Herta Oberheuser, an ad for a government medical position seems her ticket out of a desolate life. Once hired, though, she finds herself trapped in a male-dominated realm of Nazi secrets and power.   The lives of these three women are set on a collision course when the unthinkable happens and Kasia is sent to Ravensbrück, the notorious Nazi concentration camp for women. Their stories cross continents—from New York to Paris, Germany, and Poland—as Caroline and Kasia strive to bring justice to those whom history has forgotten. ...more",
+            "category": "historical fiction",
+            "description": "('Inspired by the life of a real World War II heroine, this debut novel reveals a story of love, redemption, and secrets that were hidden for decades.New York socialite Caroline Ferriday has her hands full with her post at the French consulate and a new love on the horizon. But Caroline’s world is forever changed when Hitler’s army invades Poland in September 1939—and then s Inspired by the life of a real World War II heroine, this debut novel reveals a story of love, redemption, and secrets that were hidden for decades.\\xa0New York socialite Caroline Ferriday has her hands full with her post at the French consulate and a new love on the horizon. But Caroline’s world is forever changed when Hitler’s army invades Poland in September 1939—and then sets its sights on France. \\xa0 An ocean away from Caroline, Kasia Kuzmerick, a Polish teenager, senses her carefree youth disappearing as she is drawn deeper into her role as courier for the underground resistance movement. In a tense atmosphere of watchful eyes and suspecting neighbors, one false move can have dire consequences. \\xa0 For the ambitious young German doctor, Herta Oberheuser, an ad for a government medical position seems her ticket out of a desolate life. Once hired, though, she finds herself trapped in a male-dominated realm of Nazi secrets and power. \\xa0 The lives of these three women are set on a collision course when the unthinkable happens and Kasia is sent to Ravensbrück, the notorious Nazi concentration camp for women. Their stories cross continents—from New York to Paris, Germany, and Poland—as Caroline and Kasia strive to bring justice to those whom history has forgotten. ...more',)"
+        }
+    ]
+}

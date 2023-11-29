@@ -1,0 +1,208 @@
+{
+    "query1": [
+        {
+            "id": 149,
+            "name": "NVIDIA GeForce GTX 1050",
+            "price": 97412.21592,
+            "quantity": 11,
+            "category": "Прочее",
+            "fromCity": "Овьедо",
+            "isAvailable": "False",
+            "views": 58660,
+            "changes_count": 15
+        },
+        {
+            "id": 155,
+            "name": "NVIDIA GeForce GTX 1050",
+            "price": 112155.45912,
+            "quantity": 46,
+            "category": "Прочее",
+            "fromCity": "Краков",
+            "isAvailable": "False",
+            "views": 4532,
+            "changes_count": 15
+        },
+        {
+            "id": 114,
+            "name": "amazing sunscreen",
+            "price": 63.66472000000002,
+            "quantity": 1150,
+            "category": "cosmetics",
+            "fromCity": "Вильявисиоса",
+            "isAvailable": "False",
+            "views": 26463,
+            "changes_count": 11
+        },
+        {
+            "id": 124,
+            "name": "elegant bubble bath",
+            "price": 34.324835,
+            "quantity": 587,
+            "category": "cosmetics",
+            "fromCity": "Сория",
+            "isAvailable": "True",
+            "views": 60009,
+            "changes_count": 10
+        },
+        {
+            "id": 35,
+            "name": "pretty body wash",
+            "price": 149.14036999999996,
+            "quantity": 1089,
+            "category": "cosmetics",
+            "fromCity": "Вильявисиоса",
+            "isAvailable": "True",
+            "views": 54252,
+            "changes_count": 9
+        },
+        {
+            "id": 104,
+            "name": "superb baseboard",
+            "price": 18.4536048,
+            "quantity": 990,
+            "category": "tools",
+            "fromCity": "Сория",
+            "isAvailable": "False",
+            "views": 86336,
+            "changes_count": 9
+        },
+        {
+            "id": 163,
+            "name": "refined wallpaper",
+            "price": 35.742616,
+            "quantity": 452,
+            "category": "tools",
+            "fromCity": "Трухильо",
+            "isAvailable": "False",
+            "views": 66651,
+            "changes_count": 9
+        },
+        {
+            "id": 198,
+            "name": "trendy axe",
+            "price": 157.50459999999998,
+            "quantity": 617,
+            "category": "tools",
+            "fromCity": "Луго",
+            "isAvailable": "True",
+            "views": 17262,
+            "changes_count": 9
+        },
+        {
+            "id": 128,
+            "name": "superb blueberry",
+            "price": 85.1156,
+            "quantity": 745,
+            "category": "fruit",
+            "fromCity": "Монсон",
+            "isAvailable": "True",
+            "views": 16648,
+            "changes_count": 8
+        },
+        {
+            "id": 172,
+            "name": "superb baby shampoo",
+            "price": 68.0295,
+            "quantity": 1077,
+            "category": "cosmetics",
+            "fromCity": "Эльче",
+            "isAvailable": "True",
+            "views": 61079,
+            "changes_count": 8
+        }
+    ],
+    "query2": [
+        {
+            "category": "cosmetics",
+            "sum": 1137.8087712799997,
+            "min": 7.73,
+            "max": 149.14036999999996,
+            "avg_price": 54.18137006095237,
+            "count": 21
+        },
+        {
+            "category": "fruit",
+            "sum": 643.8836999999999,
+            "min": 10.12,
+            "max": 104.67,
+            "avg_price": 53.65697499999999,
+            "count": 12
+        },
+        {
+            "category": "tools",
+            "sum": 1118.6745208,
+            "min": 11.95,
+            "max": 157.50459999999998,
+            "avg_price": 53.27021527619048,
+            "count": 21
+        },
+        {
+            "category": "Прочее",
+            "sum": 432751.91504000005,
+            "min": 10975.6,
+            "max": 112155.45912,
+            "avg_price": 61821.702148571436,
+            "count": 7
+        }
+    ],
+    "query3": [
+        {
+            "category": "cosmetics",
+            "sum": 17066,
+            "min": 512,
+            "max": 1150,
+            "avg_price": 812.6666666666666
+        },
+        {
+            "category": "fruit",
+            "sum": 8522,
+            "min": 498,
+            "max": 901,
+            "avg_price": 710.1666666666666
+        },
+        {
+            "category": "tools",
+            "sum": 15849,
+            "min": 452,
+            "max": 990,
+            "avg_price": 754.7142857142857
+        },
+        {
+            "category": "Прочее",
+            "sum": 235,
+            "min": 11,
+            "max": 60,
+            "avg_price": 33.57142857142857
+        }
+    ],
+    "query4": [
+        {
+            "fromCity": "Картахена",
+            "price": 35585.24
+        },
+        {
+            "fromCity": "Сантьяго-де-Компостела",
+            "price": 66265.0
+        },
+        {
+            "fromCity": "Вальядолид",
+            "price": 10975.6
+        },
+        {
+            "fromCity": "Краков",
+            "price": 35994.0
+        },
+        {
+            "fromCity": "Овьедо",
+            "price": 97412.21592
+        },
+        {
+            "fromCity": "Краков",
+            "price": 112155.45912
+        },
+        {
+            "fromCity": "Гранада",
+            "price": 74364.40000000001
+        }
+    ]
+}
