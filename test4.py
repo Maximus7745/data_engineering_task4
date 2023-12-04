@@ -72,8 +72,8 @@ def hundle_update(conn: sqlite3.Connection, changes: list[dict])-> None:
 def remove_product(name: str):
     try:
         cursor = conn.cursor()
-        cursor.execute(f"""DELETE FROM Products WHERE EXISTS (SELECT * FROM Products WHERE name = '{name}') AND 
-                       name = '{name}';""")
+        cursor.execute(f"""DELETE FROM Products WHERE EXISTS (SELECT * FROM Products WHERE name = ?) AND 
+                       name = ?;""", (name, name))
         conn.commit()
     finally:
         cursor.close()
@@ -83,9 +83,9 @@ def set_available_product(name: str, param: str):
         cursor = conn.cursor()
         #cursor.execute(f"""UPDATE Products SET isAvailable = '{param}' WHERE name = '{name}';""")
         #conn.commit()
-        cursor.execute(f"""UPDATE Products SET isAvailable = '{param}', changes_count = changes_count + 1
-                       WHERE EXISTS (SELECT * FROM Products WHERE name = '{name}') AND 
-                       name = '{name}';""")
+        cursor.execute(f"""UPDATE Products SET isAvailable = ?, changes_count = changes_count + 1
+                       WHERE EXISTS (SELECT * FROM Products WHERE name = ?) AND 
+                       name = ?;""", (param, name, name))
         conn.commit()  
     finally:
         cursor.close()
@@ -98,13 +98,13 @@ def add_quantity(name: str, num: int):
         #if(quantity is not None and quantity[0] >= 0):
         #    conn.commit()
         #    cursor.execute(f"""UPDATE Products SET changes_count = changes_count + 1 WHERE name = '{name}';""")
-        cursor.execute(f"""UPDATE Products SET quantity = CASE WHEN (quantity + {num}) >= 0
-                       THEN quantity + {num}
+        cursor.execute(f"""UPDATE Products SET quantity = CASE WHEN (quantity + ?) >= 0
+                       THEN quantity + ?
                        ELSE quantity END,
-                       changes_count = CASE WHEN (quantity + {num}) >= 0
+                       changes_count = CASE WHEN (quantity + ?) >= 0
                        THEN changes_count + 1
-                       ELSE changes_count END WHERE EXISTS (SELECT * FROM Products WHERE name = '{name}') AND 
-                       name = '{name}';""")
+                       ELSE changes_count END WHERE EXISTS (SELECT * FROM Products WHERE name = ?) AND 
+                       name = ?;""", (num, num, num, name, name))
         conn.commit()     
     finally:
         cursor.close()
@@ -117,13 +117,13 @@ def sub_quantity(name: str, num: int):
         #if(quantity is not None and quantity[0] >= 0):
         #    conn.commit()
         #    cursor.execute(f"""UPDATE Products SET changes_count = changes_count + 1 WHERE name = '{name}';""")
-        cursor.execute(f"""UPDATE Products SET quantity = CASE WHEN (quantity + {num}) >= 0
-                       THEN quantity + {num}
+        cursor.execute(f"""UPDATE Products SET quantity = CASE WHEN (quantity + ?) >= 0
+                       THEN quantity + ?
                        ELSE quantity END,
-                       changes_count = CASE WHEN (quantity + {num}) >= 0
+                       changes_count = CASE WHEN (quantity + ?) >= 0
                        THEN changes_count + 1
-                       ELSE changes_count END WHERE EXISTS (SELECT * FROM Products WHERE name = '{name}') AND 
-                       name = '{name}';""")
+                       ELSE changes_count END WHERE EXISTS (SELECT * FROM Products WHERE name = ?) AND 
+                       name = ?;""", (num, num, num, name, name))
         conn.commit()        
     finally:
         cursor.close()
@@ -136,13 +136,13 @@ def change_price_abs(name: str, num: float):
         #if(price is not None and price[0] > 0):
         #    conn.commit()
         #    cursor.execute(f"""UPDATE Products SET changes_count = changes_count + 1 WHERE name = '{name}';""")
-        cursor.execute(f"""UPDATE Products SET price = CASE WHEN (price + {num}) > 0
-                       THEN price + {num}
+        cursor.execute(f"""UPDATE Products SET price = CASE WHEN (price + ?) > 0
+                       THEN price + ?
                        ELSE price END,
-                       changes_count = CASE WHEN (price + {num}) > 0
+                       changes_count = CASE WHEN (price + ?) > 0
                        THEN changes_count + 1
-                       ELSE changes_count END WHERE EXISTS (SELECT * FROM Products WHERE name = '{name}') AND 
-                       name = '{name}';""")
+                       ELSE changes_count END WHERE EXISTS (SELECT * FROM Products WHERE name = ?) AND 
+                       name = ?;""", (num, num, num, name, name))
         conn.commit()
     finally:
         cursor.close()
@@ -155,20 +155,20 @@ def change_price_percent(name: str, percent: float):
         #if(price is not None and price[0] > 0):
         #    conn.commit()
         #    cursor.execute(f"""UPDATE Products SET changes_count = changes_count + 1 WHERE name = '{name}';""")
-        cursor.execute(f"""UPDATE Products SET price = CASE WHEN price * (1 + {percent}) > 0
-                       THEN price * (1 + {percent})
+        cursor.execute(f"""UPDATE Products SET price = CASE WHEN price * (1 + ?) > 0
+                       THEN price * (1 + ?)
                        ELSE price END,
-                       changes_count = CASE WHEN price * (1 + {percent}) > 0
+                       changes_count = CASE WHEN price * (1 + ?) > 0
                        THEN changes_count + 1
-                       ELSE changes_count END WHERE EXISTS (SELECT * FROM Products WHERE name = '{name}') AND 
-                       name = '{name}';""")
+                       ELSE changes_count END WHERE EXISTS (SELECT * FROM Products WHERE name = ?) AND 
+                       name = ?;""", (percent, percent, percent, name, name))
         conn.commit()
     finally:
         cursor.close()
 
 def second_query(conn: sqlite3.Connection)-> list[dict]:
     cursor = conn.cursor()
-    results = cursor.execute(f"""SELECT category, SUM(price) AS sum, MIN(price) AS min, 
+    results = cursor.execute("""SELECT category, SUM(price) AS sum, MIN(price) AS min, 
                              MAX(price) AS max, AVG(price) AS avg_price, COUNT() AS count FROM Products 
                              GROUP BY category;""").fetchall()
     cursor.close()
@@ -176,7 +176,7 @@ def second_query(conn: sqlite3.Connection)-> list[dict]:
 
 def third_query(conn: sqlite3.Connection)-> list[dict]:
     cursor = conn.cursor()
-    results = cursor.execute(f"""SELECT category, SUM(quantity) AS sum, MIN(quantity) AS min, 
+    results = cursor.execute("""SELECT category, SUM(quantity) AS sum, MIN(quantity) AS min, 
                              MAX(quantity) AS max, AVG(quantity) AS avg_price FROM Products 
                              GROUP BY category;""").fetchall()
     cursor.close()
@@ -185,7 +185,7 @@ def third_query(conn: sqlite3.Connection)-> list[dict]:
 
 def fourth_query(conn: sqlite3.Connection)-> list[dict]:
     cursor = conn.cursor()
-    results = cursor.execute(f"""SELECT fromCity, price FROM Products WHERE price > 1000;""").fetchall()
+    results = cursor.execute("""SELECT fromCity, price FROM Products WHERE price > 1000;""").fetchall()
     cursor.close()
     return list(map(lambda x: dict(x), results))
 
